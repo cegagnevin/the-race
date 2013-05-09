@@ -1,0 +1,40 @@
+html 
+{
+    height: 100%;
+}
+
+body
+{ 
+	background: #fbfbfb;
+	font: 13px Trebuchet MS, Arial, Helvetica, Sans-Serif;
+	color: #333;
+	height: 100%;
+	margin: auto;
+	padding: 0;
+	text-align:center;
+}
+
+#container 
+{	
+	height: 100%;
+    width: 800px;
+	margin: auto;
+	background: white;
+}
+
+#title{
+	color: #494949;
+	text-shadow: 0 1px 1px white;
+}
+
+
+#authors
+{
+	font-size: 13px;
+	color: darkgrey;
+	font-style: italic;
+	text-align: right;
+	position: relative;
+	top: -39px;
+	left: 165px;
+}
